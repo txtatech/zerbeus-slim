@@ -3,7 +3,7 @@ An http server written in Rust that boots four memory resident linux distros in 
 
 **This is not a production server.**
 
-There are four available linux shells in this server but only three of them are used because one of them bootstraps the other three.
+There are four available linux shells in this server but only three of them are used because one of them bootstraps the others.
 
 Note: There is an embedded html site in the server.rs itself.
 
