@@ -37,7 +37,7 @@ errno.js
 
 fs.js
 
-The server operates on the following addresses and ports.
+The server operates on the following addresses and ports:
 
 http://127.0.0.1:8081
 
