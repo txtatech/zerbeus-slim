@@ -46,3 +46,5 @@ http://127.0.0.1:8080
 http://127.0.0.1:8080/index.html <---Used to boostrap--->
 
 http://127.0.0.1:8081/index1.html
+
+**BUILD NOTE:** Built with Rustc 1.72.0-nightly and Cargo v0.9.4
