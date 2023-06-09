@@ -54,10 +54,10 @@ http://127.0.0.1:8081/index1.html
 **BUILD NOTE:** Built with Rustc 1.72.0-nightly and Cargo v0.9.4
 
 ```markdown
-# zerbeuzslim
+# zerbeuz-slim
 
 ## Description
-`zerbeuzslim` is a Rust package for handling web server functionality. It leverages the Actix framework along with other dependencies to provide a lightweight and efficient web server implementation.
+`zerbeuz-slim` is a Rust package for handling web server functionality. It leverages the Actix framework along with other dependencies to provide a lightweight and efficient web server implementation.
 
 ## Installation
 
