@@ -71,7 +71,7 @@ http://127.0.0.1:8081/index1.html
 2. Clone the `zerbeuzslim` repository:
 
    ```plaintext
-   git clone https://github.com/your-username/zerbeuzslim.git
+   git clone https://github.com/your-username/zerbeuz-slim.git
    ```
 
    Alternatively, if you have already downloaded the package, navigate to its root directory.
