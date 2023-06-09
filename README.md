@@ -9,7 +9,7 @@ There are four available linux shells in this server but only three of them are 
 
 Each time a page is opened it launches a new instance of the chosen distro from memory.
 
-There is an embedded html site in the server.rs file itself which contains a 1115 second refresh timer which is not requied and can be adjusted/deleted.
+There is an embedded html site in the server.rs file itself which contains a 1115 second refresh timer. The timer is not required and can be adjusted/deleted.
 
 All files for the server are loaded as/from a byte array at boot time.
 
