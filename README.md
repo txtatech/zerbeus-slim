@@ -1,11 +1,11 @@
 # zerbeuz-slim
 A stand-alone http server written in Rust that boots four memory resident linux distros in the browser simultaneously.
 
-**This is not a production server.**
+**This is not a production server.** It is intended for sandboxed testing purposes only.
 
 There are four available linux shells in this server but only three of them are used because one of them bootstraps the others.
 
-Note: There is an embedded html site in the server.rs itself.
+Note: There is an embedded html site in the server.rs file itself which contains a 1115 second refresh timer which is not requied and can be adjusted/deleted.
 
 All files for the server are loaded as/from a byte array at boot time.
 
