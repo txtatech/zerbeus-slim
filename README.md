@@ -1,7 +1,7 @@
 # zerbeuz-slim
 A stand-alone http server written in Rust that boots four memory resident linux distros in the browser simultaneously.
 
-**This is not a production server.** It is intended for sandboxed testing purposes only.
+**This is not a production server. It is intended for sandboxed testing purposes only.**
 
 There are four available linux shells in this server but only three of them are used because one of them bootstraps the others.
 
