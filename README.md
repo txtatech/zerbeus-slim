@@ -68,7 +68,7 @@ http://127.0.0.1:8081/index1.html
 
 1. Install Rust: Follow the official Rust installation guide based on your operating system. Visit [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install) for detailed instructions.
 
-2. Clone the `zerbeuzslim` repository:
+2. Clone the `zerbeuz-slim` repository:
 
    ```plaintext
    git clone https://github.com/your-username/zerbeuz-slim.git
