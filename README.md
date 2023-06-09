@@ -1,4 +1,4 @@
-# zerbeus-slim
+# zerbeuz-slim
 An http server written in Rust that boots four memory resident linux distros in the browser simultaneously.
 
 **This is not a production server.**
