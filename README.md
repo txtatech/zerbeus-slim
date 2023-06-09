@@ -16,22 +16,33 @@ This server has open routes, handles and static variables for the following file
 Used from: https://github.com/rslay/c_in_browser
 
 libv86.js
+
 linux.iso
+
 seabios.bin
+
 vgabios.bin
+
 index.html
 
 Used from: https://github.com/sbsoftware/wasem.js
 
 memory.js
+
 syscall.js
+
 wasem.js
+
 errno.js
+
 fs.js
 
 The server operates on the following addresses and ports.
 
 http://127.0.0.1:8081
+
 http://127.0.0.1:8080
+
 http://127.0.0.1:8080/index.html <---Used to boostrap--->
+
 http://127.0.0.1:8081/index1.html
