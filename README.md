@@ -5,7 +5,11 @@ A stand-alone http server written in Rust that boots four memory resident linux 
 
 There are four available linux shells in this server but only three of them are used because one of them bootstraps the others.
 
-Note: There is an embedded html site in the server.rs file itself which contains a 1115 second refresh timer which is not requied and can be adjusted/deleted.
+**Note:**
+
+Each time a page is opened it launches a new instance of the chosen distro from memory.
+
+There is an embedded html site in the server.rs file itself which contains a 1115 second refresh timer which is not requied and can be adjusted/deleted.
 
 All files for the server are loaded as/from a byte array at boot time.
 
@@ -82,8 +86,6 @@ This command will download and compile all the necessary dependencies, and then 
 
 Open your web browser and visit:
 `http://localhost:8080`, `http://localhost:8081`, `http://localhost:8080/index.html`, `http://localhost:8081/index1.html`
-
-Note: Each time a page is opened it launches a new instance of the chosen distro from memory.
 
 ## Dependencies
 
